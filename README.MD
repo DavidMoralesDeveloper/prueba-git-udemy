@@ -1,3 +1,6 @@
+# Version 
+Version del curso v1.2.2
+
 # Cabeceras
 # Cabecera H1
 ## Cabecera H2
@@ -88,7 +91,7 @@ export  $initHighlight;
 |Tomas | Ros  | 23232323
 
 # Citas
-Esto ews un texto referente a una cita que pondremos abajo:
+Esto es un texto referente a una cita que pondremos abajo:
 > Esto es una cita. 
 
 esto es otro texto que no se relaciona con el texto anterior. dos enter de separacion 
